@@ -29,10 +29,15 @@ Aquí puedes poner las formaciones y cursos que has realizado, aunque no esté e
 Debe tener experiencia en la sección de programación.
 Aquí puedes poner los proyectos que ya has realizado anteriormente, como por ejemplo: los proyectos del retador principiante en programación.
 Debe tener un formulario de contacto con los siguientes campos
+       
        1) Correo electrónico
+       
        2) Nombre
+       
        3) Asunto
+       
        4) Mensaje
+
 Debe tener un Pie de página con la información de la persona que desarrolló el portafolio.
 Es de extrema importancia que el portafolio sea responsivo, lo que quiere decir que debe adaptarse a los diferentes tamaños de pantallas, pudiendo ser desktop, tablet o celular.
 Importante: Todas las imagenes estaran disponible en el Figma para hacer descarga.
