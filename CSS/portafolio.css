@@ -1,0 +1,58 @@
+/* SECCION PORTAFOLIO */
+
+.portafolio__fila {
+    display: flex;
+    padding: 60px;
+    justify-content:space-between;
+  }
+.portafolio__img{
+    display: flex;
+    width: 500px;
+    height: 262px;
+    border-radius: 3px;
+    border: 1px solid rgb(133, 131, 131);
+}
+.portafolio__texto{
+    margin-right: 60px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 25px;
+}
+.portafolio__titulo {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #4f4f4f;
+  }
+  .portafolio__subtitulo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    color: #6a6a6a;
+  }
+  .portafolio__tags {
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    color: #6a6a6a;
+  }
+  .portafolio__btn {
+    background-color: #4f4f4f;
+    border: 0 none;
+    border-radius: 5px;
+    font-size: 13px;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 30px;
+    display: inline-block;
+    margin: 3px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  .portafolio__btn:hover {
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+    background-color: #333;
+  }
+  

@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inspiration&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap");
+
+/* SECCION GENERAL */
+
+body {
+  background-color: #f5f5f5;
+  margin: 0;
+}
+p,
+li,
+input,
+textarea {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 19px;
+}
+h1,
+h2
+{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: #4f4f4f;
+  margin: 0 0 1rem;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.txt-center {
+  text-align: center;
+}
+.ancho {
+  width: 1170px;
+  margin: 0 auto;
+}
+.fondo {
+  background-color: #f5f5f5;
+  padding-top: 140px;
+  
+}
+.subrayado-top {
+  background: #bcbcbc none repeat scroll 0 0;
+  margin: 0 auto;
+  width: 45px;
+  height: 2px;
+}
+.subrayado-bottom {
+  background: #bcbcbc none repeat scroll 0 0;
+  height: 1px;
+  margin: 0 auto;
+  margin-top: 3px;
+  width: 80px;
+}
+.btn {
+  background-color: #393939;
+  border: 0 none;
+  border-radius: 5px;
+  font-size: 1rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  padding: 0 3rem;
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.links {
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;  
+}
+#scrollUp {
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  background: #4f4f4f;
+  height: 35px;
+  width: 35px;
+  right: 40px;
+  bottom: 40px;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  font-size: 16px;
+  line-height: 34px;
+}
+#scrollUp:hover {
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+  background-color: #333;
+}

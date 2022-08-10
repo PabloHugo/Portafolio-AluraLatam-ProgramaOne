@@ -1,0 +1,48 @@
+/* SECCION FORMACION & STACKS */
+
+table {
+    width: 83%;
+    margin-top: 40px;
+    margin-left: 85px;
+    margin-bottom: 60px;
+}
+.formacionDonde{ 
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 550;
+    padding-top: 10px;
+}
+.formacionCuando{
+    text-align: right;
+}
+.iconosFormacionStacks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.stackHTML {
+    width: 60px;
+    height: 60px;
+}
+.stackCSS{
+  width: 60px;
+  height: 60px;
+}
+.stackJS{
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.stackJava{
+  width: 60px;
+  height: 60px;
+}
+.stackCmasmas{
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+}
+

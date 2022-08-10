@@ -1,0 +1,64 @@
+/* SECCION CONTACTO */
+
+.contacto{
+  display:flex;
+  justify-content: center;
+}
+.contacto-input {
+  width: 475px;
+  height: 15px;
+  padding: 12px;
+  margin-top: 50px;
+  border-radius: 3px;
+  border: 1px solid rgb(133, 131, 131);
+}
+.contacto-input:focus {
+  outline: none;
+}
+.contacto-textarea {
+  display: block;
+  align-items: center;
+  margin-top: 20px;
+  width: 1000px;
+  height: 150px;
+  resize: none;
+  border-radius: 3px;
+  border: 1px solid rgb(133, 131, 131);
+}
+.contacto-textarea:focus {
+  outline: none;
+}
+.contacto-submit {
+  margin-top: 20px;
+  display: block;
+  background: #4f4f4f;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1;
+  text-decoration: none;
+}
+.contacto-submit:hover {
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+  background-color: #333;
+}
+.contacto-lista {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 80%;
+  margin-left: 75px;  
+}
+.contacto-lista-titulo {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.contacto-lista-subtitulo {
+  margin: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+

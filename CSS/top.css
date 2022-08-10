@@ -1,0 +1,41 @@
+/* SECCION TOP */
+
+.top {
+  top: 0;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  background: #D0CECE;
+  z-index: 99;
+  border-bottom: #b5b2b2 inset 2px;
+}
+.top-logo {
+  margin-top: 4px;
+  width: 280px;
+}
+.top-menu {
+  height: 65px; 
+}
+.top-menu-lista {
+  display: flex;
+  height: 51px;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin: 0 30px 0 0;
+}
+.top-menu-lista-item {
+  list-style: none;
+  margin-left: 1.25rem;
+}
+.menu-lista-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  text-decoration: none;
+  color: #9a9797;
+  font-stretch: condensed;
+}
+.menu-lista-link:hover {
+  color: #06390c;
+}

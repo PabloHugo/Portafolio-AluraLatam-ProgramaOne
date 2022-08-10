@@ -1,0 +1,49 @@
+/* SECCION HABILIDADES Y HOOBIES */
+
+.habilidadesTexto{
+    display: inline-block; 
+    justify-content: center;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 34px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-bottom: 20px;
+}
+.iconosHabilidades {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 80px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.habilidadResiliencia{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
+.habilidadProactivo{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
+.habilidadLiderazgo{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
+.habilidadRugby{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
+.habilidadRunning{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
+.habilidadYoga{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
